@@ -14,7 +14,6 @@ Our project “WellWisher - Fitness Tracking Insight” focuses on creating a we
 ### Downloading and Flashing the MicroPython Firmware on ESP32
 
 - Downloading MicroPython Firmware ([https://micropython.org/download/ESP32_GENERIC/](https://micropython.org/download/ESP32_GENERIC/)) File, which is shown in bin.
-- Connect your ESP32 board to your computer.
 - Open Thonny IDE. Go to **Tools > Options > Interpreter**.
 - Select the interpreter you want to use accordingly to the board you’re using and select the COM port your board is connected to. Finally, click on the link **Install or update firmware**.
 - Select the port once again, and then click on the **Browse** button to open the **.bin** file with the firmware you’ve downloaded on the previous step. Select the options as shown in the picture below and finally click on **Install**.
